@@ -1,2 +1,2 @@
 # hello-world
-tutorial stuff
+Hello world, this is Alex Simmons's tutorial.
